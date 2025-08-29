@@ -81,7 +81,7 @@ if (!empty($_POST['user_id']) && !empty($_POST['pass'])){
             <span style="color: red;">ユーザーIDまたはパスワードが違います。</span>
         <?php endif;?>
     </form>
-
+        <!-- test commentout -->
 
 </body>
 </html>
